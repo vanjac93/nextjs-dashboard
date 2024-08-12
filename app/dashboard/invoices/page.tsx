@@ -1,3 +1,3 @@
-export default function Invoices(props) {
+export default function Invoices() {
   return <div>invoices</div>;
 }
